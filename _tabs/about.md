@@ -13,7 +13,10 @@ liquid: true
 
 🚀 As a software craftsman, I pride myself on implementing best practices and adhering to idiomatics of programming language. I prioritize writing maintainable, clean code that not only meets current project needs but also stands the test of time. My aim is to deliver solutions that not only solve problems but also elevate the overall quality of the codebase.
 
-🌐 Ready to embark on this tech journey with me? Let's dive in! For collaboration or any queries, feel free to reach out to me at [akash.jadhav.cse@gmail.com](mailto:akash.jadhav.cse@gmail.com).
+🌐 Ready to embark on this tech journey with me? Let's dive in! For collaboration or any queries, feel free to reach out to me.
+
+- Email: [akash.jadhav.cse@gmail.com](mailto:akash.jadhav.cse@gmail.com)
+- Resume: [Explore my professional background here](/assets/misc/Resume.pdf)
 
 ## Skills
 
