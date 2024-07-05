@@ -19,6 +19,8 @@ Juliaup is a Julia installer and version multiplexer written in Rust.
 
 1. **[Improve error message for `juliaup self channel` command](https://github.com/JuliaLang/juliaup/pull/882)**
    - Description: This contribution improves the error message for `juliaup self channel` command
+2. **[fix(juliaup): handle timeout error to prevent crash](https://github.com/JuliaLang/juliaup/pull/951)**
+   - Description: This contribution fixes the installer crash caused by http timeout error
 
 ## Elsa Workflows
 
